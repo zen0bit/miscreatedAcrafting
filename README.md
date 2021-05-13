@@ -39,7 +39,7 @@ Leather repair kit from 2 WolfSkin
 And Baking Guide
 ________________________________________________
 
-![MAC](https://raw.githubusercontent.com/zen0bit/miscreatedAcrafting/screenshot/MAC.jpg)
+![MAC](https://raw.githubusercontent.com/zen0bit/miscreatedAcrafting/MAC/screenshot/MAC.jpg)
 ________________________________________________
 Medical Cannabis thanks to:
 https://github.com/Bealze/Gamer-Love
